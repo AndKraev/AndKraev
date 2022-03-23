@@ -1,1 +1,8 @@
-![codeabbey](https://www.codeabbey.com/index/user_banner/akrstp.png)
+- Python developer with 2 years of experience.
+- Developed multiprocessing and mulithreading applications including concurrent code using the async/await syntax.
+- Practical skills in data parsing with BeautifulSoup and Selenium WebDriver.
+- Hands on expreience in Big Data development including but not limited to Apache Hadoop framework and tools, Apache Spark, Apache Kafka, Elasticsearch, Logstash, and Kibana. Succesfully implemented streaming processings.
+- Using Docker for building, delivering and maintaining apps within Oracle and AWS clouds.
+- Enjoy polishing code quality and finding the most optimized solutions.
+- Strong soft skills in communication and collaboration, acknowledge customer needs and problem solving.
+- Years of working experience within mulitcultural company in connection with colleagues all over the world.
